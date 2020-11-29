@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-		printf("hello world!")
+		printf("hello world!");
 		printf("master");
 		return 0;
 }
